@@ -31,6 +31,7 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.8.1",
         "bootstrap": "4.3.1",
+        "firebase-tools": "^6.6.0",
         "jquery": "3.3.1",
         "jquery.easing": "^1.4.1"
     },
