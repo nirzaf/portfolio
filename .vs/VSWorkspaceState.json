@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\vendor",
     "\\vendor\\fontawesome-free"
   ],
-  "SelectedNode": "\\vendor\\fontawesome-free\\package.json",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
